@@ -1,0 +1,25 @@
+{
+    "operation": "-",
+    "left": {
+        "operation": "*",
+        "left": {
+            "operation": "/",
+            "left": "9",
+            "right": "3"
+        },
+        "right": {
+            "operation": "-",
+            "left": "4",
+            "right": "1"
+        }
+    },
+    "right": {
+        "operation": "*",
+        "left": {
+            "operation": "-",
+            "left": "9",
+            "right": "8"
+        },
+        "right": "2"
+    }
+}

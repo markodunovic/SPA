@@ -1,0 +1,17 @@
+{
+    "operation": "+",
+    "left": {
+        "operation": "/",
+        "left": {
+            "operation": "*",
+            "left": "9",
+            "right": {
+                "operation": "-",
+                "left": "7",
+                "right": "3"
+            }
+        },
+        "right": "2"
+    },
+    "right": "5"
+}

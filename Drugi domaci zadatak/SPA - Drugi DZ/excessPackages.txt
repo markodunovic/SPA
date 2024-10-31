@@ -1,0 +1,2 @@
+Paket: Laptop Opis: Premium quality Adresa: 6 Masa: 28 Prioritet: 18
+Paket: Watch Opis: Bestseller Adresa: 5 Masa: 13 Prioritet: 4
